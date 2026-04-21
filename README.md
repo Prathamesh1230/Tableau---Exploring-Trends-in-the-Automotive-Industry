@@ -3,10 +3,6 @@
 **Dataset:** 8,148 used car listings · India · 1983–2023  
 **Tools:** Tableau · CSV · Calculated Fields · Data Modeling
 
-![Dashboard Preview](./dashboard_preview.png)
-
-🔗 **[Live Dashboard — Tableau Public](#)** *(add your link here)*
-
 ---
 
 ## About the Project
