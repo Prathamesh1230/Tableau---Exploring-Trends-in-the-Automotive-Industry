@@ -59,3 +59,5 @@ Used car pricing in India is all over the place — fuel type, transmission, who
 ---
 
 *Skills: Tableau · Dashboard Development · Data Modeling · Calculated Fields · Exploratory Data Analysis · Business Analytics · KPI Reporting*
+
+<img width="1889" height="863" alt="image" src="https://github.com/user-attachments/assets/5f071035-a242-4d84-9630-d03759a4e8ad" />
